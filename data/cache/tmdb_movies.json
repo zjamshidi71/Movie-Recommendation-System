@@ -1,0 +1,131 @@
+[
+  {
+    "id": 1368337,
+    "title": "The Odyssey",
+    "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Fantasy"
+    ],
+    "vote_average": 7.843,
+    "popularity": 746.6132,
+    "release_date": "2026-07-15",
+    "poster_path": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+    "director": "Christopher Nolan",
+    "cast": [
+      "Matt Damon",
+      "Tom Holland",
+      "Anne Hathaway",
+      "Robert Pattinson",
+      "Himesh Patel",
+      "John Leguizamo"
+    ],
+    "revenue": 264100000,
+    "budget": 250000000,
+    "runtime": 173
+  },
+  {
+    "id": 1108427,
+    "title": "Moana",
+    "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Comedy",
+      "Adventure"
+    ],
+    "vote_average": 5.8,
+    "popularity": 601.7817,
+    "release_date": "2026-07-08",
+    "poster_path": "/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+    "director": "Thomas Kail",
+    "cast": [
+      "Catherine Laga\u02bbaia",
+      "Dwayne Johnson",
+      "Rena Owen",
+      "John Tui",
+      "Frankie Adams",
+      "Jemaine Clement"
+    ],
+    "revenue": 115510565,
+    "budget": 250000000,
+    "runtime": 115
+  },
+  {
+    "id": 1339713,
+    "title": "Obsession",
+    "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "vote_average": 8.249,
+    "popularity": 573.6836,
+    "release_date": "2026-05-13",
+    "poster_path": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+    "director": "Curry Barker",
+    "cast": [
+      "Michael Johnston",
+      "Inde Navarrette",
+      "Cooper Tomlinson",
+      "Megan Lawless",
+      "Andy Richter",
+      "Haley Fitzgerald"
+    ],
+    "revenue": 442677260,
+    "budget": 750000,
+    "runtime": 108
+  },
+  {
+    "id": 1083381,
+    "title": "Backrooms",
+    "overview": "A strange doorway appears in the basement of a furniture showroom.",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Science Fiction"
+    ],
+    "vote_average": 7.052,
+    "popularity": 453.2348,
+    "release_date": "2026-05-27",
+    "poster_path": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+    "director": "Kane Parsons",
+    "cast": [
+      "Chiwetel Ejiofor",
+      "Renate Reinsve",
+      "Finn Bennett",
+      "Lukita Maxwell",
+      "Mark Duplass",
+      "Avan Jogia"
+    ],
+    "revenue": 384382240,
+    "budget": 10000000,
+    "runtime": 111
+  },
+  {
+    "id": 1275779,
+    "title": "Disclosure Day",
+    "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+    "genres": [
+      "Science Fiction",
+      "Thriller"
+    ],
+    "vote_average": 6.686,
+    "popularity": 452.1308,
+    "release_date": "2026-06-10",
+    "poster_path": "/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+    "director": "Steven Spielberg",
+    "cast": [
+      "Emily Blunt",
+      "Josh O'Connor",
+      "Colin Firth",
+      "Colman Domingo",
+      "Eve Hewson",
+      "Wyatt Russell"
+    ],
+    "revenue": 232932501,
+    "budget": 115000000,
+    "runtime": 146
+  }
+]
