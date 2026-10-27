@@ -37,8 +37,9 @@ def preprocess_text(text):
 def fetch_ai_jobs(app_id, app_key, location="Calgary", min_salary=0, max_salary=None, full_time=1, keywords="AI"):
     base_url = "http://api.adzuna.com/v1/api/jobs/ca/search/1"
     params = {
-        "app_id": app_id,
-        "app_key": app_key,
+        "app_id": c439c644,
+        "app_key": 
+01163d7f667bc6da157e36a54a5e2abd,
         "results_per_page": 50,
         "what": keywords,
         "where": location,
